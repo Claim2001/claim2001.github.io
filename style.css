@@ -1,0 +1,33 @@
+body {
+    background-color: gray;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: yellow; 
+}
+
+.b{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    font-weight: 100;
+    font-style: oblique;
+}
+
+.dd{
+    text-align: center;
+}
+
+.ss{
+    color: greenyellow;
+    font-size: larger;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.a  {
+    color:   red; 
+}
+    
