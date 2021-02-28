@@ -20,6 +20,22 @@ h1, h2
     text-align: center;
 }
 
+.ss:link {
+    text-decoration: none;
+  }
+  
+.ss:visited {
+    text-decoration: none;
+}
+  
+.ss:hover {
+    text-decoration: underline;
+  }
+  
+.ss:active {
+    text-decoration: underline;
+  }
+
 .ss{
     color: greenyellow;
     font-size: larger;
@@ -31,3 +47,17 @@ h1, h2
     color:   red; 
 }
     
+span{
+    float: left;
+
+
+  line-height: 50%;
+
+
+
+
+  font-size: 175%;
+
+
+  font-family: georgia;
+}
